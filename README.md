@@ -66,8 +66,9 @@ class FederatedPIIGradientBoost:
 
 This framework demonstrates effective privacy-preserving machine learning for sensitive healthcare data. The combination of federated learning and gradient boosting provides robust performance while ensuring complete data protection, making it suitable for regulated environments requiring both analytical insights and privacy compliance.
 
----
+## Code Repository
+
+Full implementation available on GitHub: [federated-learning-w-gradient-boosting.ipynb](https://github.com/swapanroy/Kaggle-Repo/blob/62e8573042f0b564433eb17fb8b86be2ae967c73/federated-learning-w-gradient-boosting.ipynb)
+
 
 **Keywords**: federated learning, privacy preservation, gradient boosting, healthcare analytics, PII protection
-
-## Code: https://github.com/swapanroy/Kaggle-Repo/blob/62e8573042f0b564433eb17fb8b86be2ae967c73/federated-learning-w-gradient-boosting.ipynb
