@@ -51,9 +51,9 @@ class FederatedPIIGradientBoost:
 
 ## Applications
 
-**Healthcare**: Multi-institutional research, clinical trials, risk assessment
-**Finance**: Credit scoring, fraud detection, regulatory compliance
-**Research**: Privacy-preserving collaborative analytics
+1. **Healthcare**: Multi-institutional research, clinical trials, risk assessment
+2. **Finance**: Credit scoring, fraud detection, regulatory compliance
+3. **Research**: Privacy-preserving collaborative analytics
 
 ## Key Contributions
 
