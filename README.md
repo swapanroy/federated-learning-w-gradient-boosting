@@ -69,3 +69,5 @@ This framework demonstrates effective privacy-preserving machine learning for se
 ---
 
 **Keywords**: federated learning, privacy preservation, gradient boosting, healthcare analytics, PII protection
+
+## Code: https://github.com/swapanroy/Kaggle-Repo/blob/62e8573042f0b564433eb17fb8b86be2ae967c73/federated-learning-w-gradient-boosting.ipynb
